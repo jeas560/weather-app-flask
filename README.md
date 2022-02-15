@@ -1,7 +1,7 @@
 # weather-app-flask
 A project to study flask.
 
-For a live version click [here].(https://tempo-na-cidade.herokuapp.com/)
+For a live version click [here](https://tempo-na-cidade.herokuapp.com/).
 
 After download the project, go to the directory and follow the code block:
 
